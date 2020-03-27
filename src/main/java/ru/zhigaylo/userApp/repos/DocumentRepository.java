@@ -2,8 +2,8 @@ package ru.zhigaylo.userApp.repos;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import ru.zhigaylo.userApp.Document;
-import ru.zhigaylo.userApp.User;
+import ru.zhigaylo.userApp.model.Document;
+import ru.zhigaylo.userApp.model.User;
 
 import java.util.List;
 
